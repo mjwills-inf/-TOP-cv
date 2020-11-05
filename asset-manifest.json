@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/://mjwills-inf.github.io/-TOP-cv/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/://mjwills-inf.github.io/-TOP-cv/static/js/main.041efc36.chunk.js",
+    "main.js.map": "/://mjwills-inf.github.io/-TOP-cv/static/js/main.041efc36.chunk.js.map",
+    "runtime-main.js": "/://mjwills-inf.github.io/-TOP-cv/static/js/runtime-main.edb9593c.js",
+    "runtime-main.js.map": "/://mjwills-inf.github.io/-TOP-cv/static/js/runtime-main.edb9593c.js.map",
+    "static/js/2.23ddef51.chunk.js": "/://mjwills-inf.github.io/-TOP-cv/static/js/2.23ddef51.chunk.js",
+    "static/js/2.23ddef51.chunk.js.map": "/://mjwills-inf.github.io/-TOP-cv/static/js/2.23ddef51.chunk.js.map",
+    "index.html": "/://mjwills-inf.github.io/-TOP-cv/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/://mjwills-inf.github.io/-TOP-cv/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.23ddef51.chunk.js.LICENSE.txt": "/://mjwills-inf.github.io/-TOP-cv/static/js/2.23ddef51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edb9593c.js",
+    "static/js/2.23ddef51.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.041efc36.chunk.js"
+  ]
+}
